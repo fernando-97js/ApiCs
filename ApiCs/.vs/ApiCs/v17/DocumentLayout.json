@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fernando\\source\\repos\\ApiCs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8682F99-7F8A-49E4-98F3-FB8C548CA81A}|ApiCs.csproj|c:\\users\\fernando\\source\\repos\\apics\\controllers\\voluntariosarouchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8682F99-7F8A-49E4-98F3-FB8C548CA81A}|ApiCs.csproj|solutionrelative:controllers\\voluntariosarouchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8682F99-7F8A-49E4-98F3-FB8C548CA81A}|ApiCs.csproj|c:\\users\\fernando\\source\\repos\\apics\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8682F99-7F8A-49E4-98F3-FB8C548CA81A}|ApiCs.csproj|solutionrelative:applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8682F99-7F8A-49E4-98F3-FB8C548CA81A}|ApiCs.csproj|c:\\users\\fernando\\source\\repos\\apics\\voluntariosarouche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8682F99-7F8A-49E4-98F3-FB8C548CA81A}|ApiCs.csproj|solutionrelative:voluntariosarouche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8682F99-7F8A-49E4-98F3-FB8C548CA81A}|ApiCs.csproj|c:\\users\\fernando\\source\\repos\\apics\\controllers\\ongscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8682F99-7F8A-49E4-98F3-FB8C548CA81A}|ApiCs.csproj|solutionrelative:controllers\\ongscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8682F99-7F8A-49E4-98F3-FB8C548CA81A}|ApiCs.csproj|c:\\users\\fernando\\source\\repos\\apics\\controllers\\voluntariosflorescerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8682F99-7F8A-49E4-98F3-FB8C548CA81A}|ApiCs.csproj|solutionrelative:controllers\\voluntariosflorescerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8682F99-7F8A-49E4-98F3-FB8C548CA81A}|ApiCs.csproj|c:\\users\\fernando\\source\\repos\\apics\\controllers\\voluntariospaccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8682F99-7F8A-49E4-98F3-FB8C548CA81A}|ApiCs.csproj|solutionrelative:controllers\\voluntariospaccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8682F99-7F8A-49E4-98F3-FB8C548CA81A}|ApiCs.csproj|c:\\users\\fernando\\source\\repos\\apics\\voluntariospac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8682F99-7F8A-49E4-98F3-FB8C548CA81A}|ApiCs.csproj|solutionrelative:voluntariospac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8682F99-7F8A-49E4-98F3-FB8C548CA81A}|ApiCs.csproj|c:\\users\\fernando\\source\\repos\\apics\\voluntariosflorescer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8682F99-7F8A-49E4-98F3-FB8C548CA81A}|ApiCs.csproj|solutionrelative:voluntariosflorescer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8682F99-7F8A-49E4-98F3-FB8C548CA81A}|ApiCs.csproj|c:\\users\\fernando\\source\\repos\\apics\\ong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8682F99-7F8A-49E4-98F3-FB8C548CA81A}|ApiCs.csproj|solutionrelative:ong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8682F99-7F8A-49E4-98F3-FB8C548CA81A}|ApiCs.csproj|c:\\users\\fernando\\source\\repos\\apics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8682F99-7F8A-49E4-98F3-FB8C548CA81A}|ApiCs.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8682F99-7F8A-49E4-98F3-FB8C548CA81A}|ApiCs.csproj|c:\\users\\fernando\\source\\repos\\apics\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D8682F99-7F8A-49E4-98F3-FB8C548CA81A}|ApiCs.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VoluntariosArouchesController.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando\\source\\repos\\ApiCs\\Controllers\\VoluntariosArouchesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VoluntariosArouchesController.cs",
+              "ToolTip": "C:\\Users\\Fernando\\source\\repos\\ApiCs\\Controllers\\VoluntariosArouchesController.cs",
+              "RelativeToolTip": "Controllers\\VoluntariosArouchesController.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAIwFgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T15:22:30.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VoluntariosArouche.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando\\source\\repos\\ApiCs\\VoluntariosArouche.cs",
+              "RelativeDocumentMoniker": "VoluntariosArouche.cs",
+              "ToolTip": "C:\\Users\\Fernando\\source\\repos\\ApiCs\\VoluntariosArouche.cs",
+              "RelativeToolTip": "VoluntariosArouche.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T15:21:14.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VoluntariosPacController.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando\\source\\repos\\ApiCs\\Controllers\\VoluntariosPacController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VoluntariosPacController.cs",
+              "ToolTip": "C:\\Users\\Fernando\\source\\repos\\ApiCs\\Controllers\\VoluntariosPacController.cs",
+              "RelativeToolTip": "Controllers\\VoluntariosPacController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAywFkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T15:10:49.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VoluntariosFlorescersController.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando\\source\\repos\\ApiCs\\Controllers\\VoluntariosFlorescersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VoluntariosFlorescersController.cs",
+              "ToolTip": "C:\\Users\\Fernando\\source\\repos\\ApiCs\\Controllers\\VoluntariosFlorescersController.cs",
+              "RelativeToolTip": "Controllers\\VoluntariosFlorescersController.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAIwFgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T14:36:56.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VoluntariosFlorescer.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando\\source\\repos\\ApiCs\\VoluntariosFlorescer.cs",
+              "RelativeDocumentMoniker": "VoluntariosFlorescer.cs",
+              "ToolTip": "C:\\Users\\Fernando\\source\\repos\\ApiCs\\VoluntariosFlorescer.cs",
+              "RelativeToolTip": "VoluntariosFlorescer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T14:28:21.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Ong.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando\\source\\repos\\ApiCs\\Ong.cs",
+              "RelativeDocumentMoniker": "Ong.cs",
+              "ToolTip": "C:\\Users\\Fernando\\source\\repos\\ApiCs\\Ong.cs",
+              "RelativeToolTip": "Ong.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T12:10:47.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando\\source\\repos\\ApiCs\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Fernando\\source\\repos\\ApiCs\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T12:16:10.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OngsController.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando\\source\\repos\\ApiCs\\Controllers\\OngsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OngsController.cs",
+              "ToolTip": "C:\\Users\\Fernando\\source\\repos\\ApiCs\\Controllers\\OngsController.cs",
+              "RelativeToolTip": "Controllers\\OngsController.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAIwFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T12:31:29.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VoluntariosPac.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando\\source\\repos\\ApiCs\\VoluntariosPac.cs",
+              "RelativeDocumentMoniker": "VoluntariosPac.cs",
+              "ToolTip": "C:\\Users\\Fernando\\source\\repos\\ApiCs\\VoluntariosPac.cs",
+              "RelativeToolTip": "VoluntariosPac.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T15:09:31.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Fernando\\source\\repos\\ApiCs\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Fernando\\source\\repos\\ApiCs\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-25T12:28:10.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando\\source\\repos\\ApiCs\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Fernando\\source\\repos\\ApiCs\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAswDUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T12:18:43.445Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
